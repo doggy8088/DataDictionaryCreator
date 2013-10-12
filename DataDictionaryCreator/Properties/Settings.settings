@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataDictionaryCreator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FOREIGN_KEY_DESCRIPTION" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Link to {0} table</Value>
+    </Setting>
+    <Setting Name="PRIMARY_KEY_DESCRIPTION" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Primary key</Value>
+    </Setting>
+    <Setting Name="ALLOW_OVERWRITE" GenerateDefaultValueInCode="false" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SQL_CONNECTION_STRING" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Integrated Security=SSPI;Persist Security Info=True;Initial Catalog=Northwind;Data Source=(local)</Value>
+    </Setting>
+    <Setting Name="ADDITIONAL_PROPERTIES" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExcludedObjects" Type="DataDictionaryCreator.ExcludedObjectList" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
