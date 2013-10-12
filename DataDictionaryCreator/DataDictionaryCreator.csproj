@@ -277,7 +277,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="sql\read_previous_properties.sql" />
+    <EmbeddedResource Include="sql\read_previous_properties.sql">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <Content Include="app.ico" />
     <Content Include="readme.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
